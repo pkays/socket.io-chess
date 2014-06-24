@@ -519,7 +519,7 @@ var Client = (function(window) {
     messages.append(html);
   };
 
-  /**
+  /***
    * Display the "Game Over" window
    */
   var showGameOverMessage = function(type) {
